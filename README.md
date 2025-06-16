@@ -9,7 +9,7 @@ The references list is categorized in accordane to the proposed taxonomy in Figu
 
 [2] Fragapane G, Koster R de, Sgarbossa F (2024) Autonomous Mobile Robots for Material Handling in Intralogistics. Springer International, Cham, pp 251-274
 
-[3] ISO 26262 - Road vehicles - Functional Safety 43.040.10(26262)
+[3] Lieret M, Fertsch J, Franke J (2020) Fault detection for autonomous multirotors using a redundant flight control architecture. In: 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE). IEEE, pp 29–34
 
 [4] Schwindt-Drews S, Storms K, Peters S et al. (2024) Acceptance and Trust: Drivers' First Contact with Released Automated Vehicles in Naturalistic Traffic. IEEE Trans Intell Transp. Syst 25:18601-18610. https://doi.org/10.1109/TITS.2024.3443927
 
